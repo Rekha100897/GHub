@@ -7,5 +7,10 @@ public class demoTest {
 	public void add(){
 		System.out.println("hey");
 	}
+	
+	@Test
+	public void sub(){
+		System.out.println("good morning");
+	}
 
 }
